@@ -52,5 +52,4 @@ This project aims to **automate CO₂ tracking and forecasting**, empowering use
 
 ---
 
-## 🏗️ Project Structure  
 
